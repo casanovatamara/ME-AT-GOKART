@@ -3,7 +3,7 @@
 <html>
 
 <head>
-	<title> Me at Go-Kart </title>
+	<title> I LOVE CAT </title>
 	<link href="magstart.css" rel="stylesheet" type="text/css">
 </head>
 
