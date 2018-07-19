@@ -1,0 +1,111 @@
+body {
+	font-family:"lucidia sans",sans-serif;
+	
+}
+
+header {
+	background-color:salmon;
+	padding:1px 1px;
+	text-align:center;
+	font-size: 2vw;
+	
+}
+
+.form {
+	font-size: 4.5vw;
+	padding:1px 1px;
+	text-align:center;
+	
+}
+
+
+.button {
+	background-color:#f44336;
+    border:1px solid white;
+	color:white;
+	padding:50px 40px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size:6vw;
+	border-radius: 8px;
+	width:70%;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.9), 0 6px 20px 0 rgba(0,0,0,0.1);
+	margin: 8% 15% 8% 15%;
+	
+}
+
+/*.button:hover {
+	 background-color: firebrick; 
+    color: white;
+	
+}*/
+
+.closebutton {
+	background-color:salmon;
+	color:white;
+	border:1px solid black;
+	padding:14px 40px;
+	float:left;
+	text-decoration:none;
+	display:inline-block;
+	font-size:4vw;
+	border-radius: 8px;
+	width:17%;
+	margin: 1%;
+
+}
+
+/*.closebutton:hover {
+	 background-color: firebrick; 
+    color: white;
+	
+}*/
+
+.login {
+	background-color:#f44336;
+    border:1px solid white;
+	color:white;
+	padding:14px 40px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size:6vw;
+	border-radius: 8px;
+	width:25%;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.9), 0 6px 20px 0 rgba(0,0,0,0.1);
+	margin: 0% 37.5% 10% 37.5%;
+}
+
+.divlogin {
+	background-color:lightgray;
+	padding:14px 40px;
+}
+
+input {
+	width:70%;
+	padding: 20px 20px;
+    margin: 5% 5% 5% 5%;
+    box-sizing: border-box;
+	font-size:5vw;
+}
+a {
+	font-size: 6vw;
+	color:white;
+	text-decoration: none;
+	padding: 14px 50px;
+	margin: 0;
+	
+}
+
+#Wimage {
+	position:relative;
+	left:0px;
+	/*background-color:lightgray;*/
+	/*width: 100px;*/
+	
+}

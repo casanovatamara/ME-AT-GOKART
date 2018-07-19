@@ -1,0 +1,134 @@
+header {
+	background-color:salmon;
+	padding:1px 1px;
+	text-align:center;
+	font-size: 2vw;
+	
+}
+.closebutton {
+	background-color:salmon;
+	color:white;
+	border:1px solid black;
+	padding:14px 40px;
+	float:left;
+	text-decoration:none;
+	display:inline-block;
+	font-size:4vw;
+	border-radius: 8px;
+	width:17%;
+	margin: 1%;
+
+}
+
+h2 {
+	background-color:gray;
+}
+
+
+body {
+	color:black;
+	font-family:"lucidia sans",sans-serif;
+	background:lightgray;
+	margin:5px;
+	
+}
+
+table th {
+	background-color: grey;
+	color: black;
+	padding: 2px 5px;
+	font-size: 3vw;
+	text-align:center;
+	box-shadow: 1px 1px gray;
+	margin:0px 1px 0px 1px;
+	
+
+}
+
+table td {
+	background-color: yellow;
+	border: 2px;
+	padding: 2px 5px;
+	font-size: 4vw;
+	text-align:center;
+	box-shadow: 1px 1px gray;
+	margin:0px 1px 0px 1px;
+}
+
+.col1 {
+	width: 0.1%;
+	text-align:center;
+	
+}
+
+.col2 {
+	text-align: left;
+	width: 1%;
+	text-align:center;
+}
+
+.col3 {
+	width: 0.2%;
+	text-align:center;
+	
+}
+
+.col4 {
+	width: 0.2%;
+	text-align:center;
+}
+
+.col5{
+	width:0.2%;
+	text-align:center;
+}
+
+.col6 {
+	width:0.2%;
+	text-align:center;
+}
+
+.col7 {
+	width:0.2%;
+	text-align:center;
+}
+
+.row {
+	background-color: silver;
+	text-align:left;
+}
+
+.name {
+	text-align:left;
+	
+}
+
+.que {
+	font-size: 3.2vw;
+	padding:1px 1px;
+	text-align:center;
+}
+
+.q1 {
+	background-color: silver;
+}
+
+.q2 {
+	background-color: silver;
+}
+
+.q3 {
+	background-color: silver;
+}
+
+.q4 {
+	background-color: silver;
+}
+
+.q5 {
+	background-color: silver;
+}
+
+.q6 {
+	background-color: silver;
+}
